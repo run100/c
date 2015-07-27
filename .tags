@@ -1,0 +1,145 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Add	.\imooc\struct\macro.c	5;"	d	file:
+DEF	.\str\gets.c	3;"	d	file:
+HALT	.\str\sort_str.c	6;"	d	file:
+LIM	.\str\sort_str.c	5;"	d	file:
+LIMIT	.\str\mod_str.c	4;"	d	file:
+M	.\imooc\struct\macro.c	3;"	d	file:
+MAXAUTL	.\struct\book.c	3;"	d	file:
+MAXAUTL	.\struct\manybook.c	3;"	d	file:
+MAXBKS	.\struct\manybook.c	4;"	d	file:
+MAXTITL	.\struct\book.c	2;"	d	file:
+MAXTITL	.\struct\manybook.c	2;"	d	file:
+MONTHS	.\point\arr2.c	2;"	d	file:
+N	.\imooc\struct\macro.c	4;"	d	file:
+PI	.\var\var1.c	3;"	d	file:
+R	.\imooc\struct\macro.c	2;"	d	file:
+SIZE	.\point\arr1.c	2;"	d	file:
+SIZE	.\point\arr1_sum.c	2;"	d	file:
+SIZE	.\point\p2.c	2;"	d	file:
+SIZE	.\str\gets.c	2;"	d	file:
+SIZE	.\str\sort_str.c	4;"	d	file:
+SPACE	.\struct\putchar.c	2;"	d	file:
+add_to	.\point\p2.c	/^void add_to(double *ar,int n, double val){$/;"	f
+atk	.\imooc\struct\list.c	/^	int atk;$/;"	m	struct:weapon	file:
+atk	.\imooc\struct\struct.c	/^	int atk;$/;"	m	struct:weapon	file:
+author	.\struct\book.c	/^  char author[MAXAUTL];$/;"	m	struct:book	file:
+author	.\struct\manybook.c	/^  char author[MAXAUTL];$/;"	m	struct:book	file:
+book	.\struct\book.c	/^struct book{$/;"	s	file:
+book	.\struct\manybook.c	/^struct book$/;"	s	file:
+calc	.\fun\f1.c	/^int calc(distance, time){$/;"	f
+change	.\imooc\point\p_normal.c	/^void change(int a, int b)$/;"	f
+change	.\imooc\point\p_swap.c	/^void change(int a, int b)$/;"	f
+change	.\point\simple.c	/^void change(pooh)$/;"	f
+changeValue	.\pday\main.c	/^void changeValue(int a[]){$/;"	f
+change_val	.\pday\main.c	/^void change_val( int a[]) {$/;"	f
+change_val2	.\pday\main.c	/^void change_val2(int *p) {$/;"	f
+fit	.\str\test_fit.c	/^void fit(char *string,unsigned int size){$/;"	f
+func	.\imooc\point\sum.c	/^int func () {$/;"	f
+global	.\imooc\point\rect.c	/^int global = 0;$/;"	v
+interchange	.\point\swap3.c	/^void interchange(int *u, int *v)$/;"	f
+main	.\1.c	/^int main(void){$/;"	f
+main	.\arr\bubbing.c	/^int main(){$/;"	f
+main	.\arr\str.c	/^int main(){$/;"	f
+main	.\c12\1.c	/^int main()$/;"	f
+main	.\c12\dyn_arr.c	/^int main(void)$/;"	f
+main	.\c12\r_drive0.c	/^int main(void){$/;"	f
+main	.\c12\r_drive1.c	/^int main(void){$/;"	f
+main	.\fun\f1.c	/^int main(){$/;"	f
+main	.\getchar\p2.c	/^int main()$/;"	f
+main	.\getchar\p3.c	/^int main(void)$/;"	f
+main	.\getchar\p4.c	/^int main(void){$/;"	f
+main	.\getchar\p5.c	/^int main(void){$/;"	f
+main	.\getchar\p6.c	/^int main()$/;"	f
+main	.\getchar\point.c	/^int main(){$/;"	f
+main	.\getchar\scanf.c	/^int main(void){$/;"	f
+main	.\getchar\sscanf.c	/^int main(void){$/;"	f
+main	.\getchar\str.c	/^int main(void)$/;"	f
+main	.\imooc\arr\a1.c	/^int main()$/;"	f
+main	.\imooc\arr\var.c	/^int main()$/;"	f
+main	.\imooc\base\1.c	/^int main()$/;"	f
+main	.\imooc\point\arr.c	/^int main()$/;"	f
+main	.\imooc\point\p_normal.c	/^int main()$/;"	f
+main	.\imooc\point\p_swap.c	/^int main()$/;"	f
+main	.\imooc\point\rect.c	/^int main()$/;"	f
+main	.\imooc\point\str.c	/^int main()$/;"	f
+main	.\imooc\point\sum.c	/^int main(){$/;"	f
+main	.\imooc\struct\list.c	/^int main()$/;"	f
+main	.\imooc\struct\struct.c	/^int main()$/;"	f
+main	.\operation\addself.c	/^int main(void){$/;"	f
+main	.\operation\getchar.c	/^int main(void){$/;"	f
+main	.\p2\a.c	/^int main(){$/;"	f
+main	.\p3\main.c	/^int main(int argv, char* argc[])$/;"	f
+main	.\p3\main2.c	/^int main(int argc, char *argv[]){$/;"	f
+main	.\p4\fscanf.c	/^int main(int argc, char *argv[]){$/;"	f
+main	.\p4\in.c	/^int main(int argc,char *argv[]){$/;"	f
+main	.\p4\scanf.c	/^int main(int argc, char *argv[]){$/;"	f
+main	.\p5\avg.c	/^int main(){$/;"	f
+main	.\p5\input.c	/^int main(int argc,char *argv[]){$/;"	f
+main	.\pday\main.c	/^int main(int argc, const char * argv[])$/;"	f
+main	.\pday\p1.c	/^int main()$/;"	f
+main	.\point\addr.c	/^int main(void){$/;"	f
+main	.\point\arr1.c	/^int main(int argc, char *argv[])$/;"	f
+main	.\point\arr1_sum.c	/^int main(int argc, char *argv[])$/;"	f
+main	.\point\arr2.c	/^int main(int argc, char *argv[])$/;"	f
+main	.\point\arr3.c	/^int main(void){$/;"	f
+main	.\point\loccheck.c	/^int main(void){$/;"	f
+main	.\point\p2.c	/^int main(int argc, char *argv[])$/;"	f
+main	.\point\point1.c	/^int main(int argc, char *argv[])$/;"	f
+main	.\point\ptr_ops.c	/^int main(int argc,char *argv[]){$/;"	f
+main	.\point\simple.c	/^int main()$/;"	f
+main	.\point\swap1.c	/^int main()$/;"	f
+main	.\point\swap3.c	/^int main()$/;"	f
+main	.\point\test.c	/^int main(int argc, char *argv[])$/;"	f
+main	.\point\zippo1.c	/^int main(int argc, char *argv[])$/;"	f
+main	.\point\zippo2.c	/^int main(int argc, char *argv[])$/;"	f
+main	.\projects\a.c	/^int main(){$/;"	f
+main	.\str\gets.c	/^int main()$/;"	f
+main	.\str\mod_str.c	/^int main(void){$/;"	f
+main	.\str\p_and_s.c	/^int main()$/;"	f
+main	.\str\quotes.c	/^int main(int argc, char *argv[])$/;"	f
+main	.\str\sort_str.c	/^int main()$/;"	f
+main	.\str\str.c	/^int main()$/;"	f
+main	.\str\test_fit.c	/^int main(void){$/;"	f
+main	.\struct\book.c	/^int main(void){$/;"	f
+main	.\struct\manybook.c	/^int main(void){$/;"	f
+main	.\struct\putchar.c	/^int main(void){$/;"	f
+main	.\var\char.c	/^int main(){$/;"	f
+main	.\var\operation.c	/^int main(){$/;"	f
+main	.\var\var1.c	/^int main(){$/;"	f
+max_num	.\p2\max.c	/^int max_num(a,b){$/;"	f
+max_num	.\projects\max.c	/^int max_num(a,b){$/;"	f
+mikado	.\point\point1.c	/^void mikado(int bah)$/;"	f
+min_num	.\p2\min.c	/^int min_num(a,b){$/;"	f
+min_num	.\projects\min.c	/^int min_num(a,b){$/;"	f
+name	.\imooc\struct\struct.c	/^	char name[20];$/;"	m	struct:weapon	file:
+next	.\c12\rand0.c	/^static unsigned long int next = 1;$/;"	v	file:
+next	.\c12\s_and_r.c	/^static unsigned long int next = 1;$/;"	v	file:
+next	.\imooc\struct\list.c	/^	struct weapon * next;$/;"	m	struct:weapon	typeref:struct:weapon::weapon	file:
+price	.\imooc\struct\list.c	/^	int price;$/;"	m	struct:weapon	file:
+price	.\imooc\struct\struct.c	/^	int price;$/;"	m	struct:weapon	file:
+put2	.\str\gets.c	/^int put2(const char * string){$/;"	f
+quadrate	.\imooc\point\rect.c	/^int quadrate(int a)$/;"	f
+rand0	.\c12\rand0.c	/^int rand0(void){$/;"	f
+rand1	.\c12\s_and_r.c	/^int rand1(void)$/;"	f
+rect	.\imooc\point\rect.c	/^int rect(int a, int b)$/;"	f
+sortstr	.\str\sort_str.c	/^void sortstr(char *strings[],int num)$/;"	f
+srand1	.\c12\s_and_r.c	/^void srand1(unsigned int seed)$/;"	f
+sum	.\point\arr1_sum.c	/^int sum(int *ar,int n){$/;"	f
+sum_and_minus	.\imooc\arr\a1.c	/^int sum_and_minus(int a, int b, int *minus)$/;"	f
+swap	.\pday\p1.c	/^void swap(int *a, int *b)$/;"	f
+test	.\point\addr.c	/^void test(int n)$/;"	f
+test	.\point\loccheck.c	/^void test(int b){$/;"	f
+test_b	.\point\addr.c	/^void test_b(int *a)$/;"	f
+title	.\struct\book.c	/^  char title[MAXTITL];$/;"	m	struct:book	file:
+title	.\struct\manybook.c	/^  char title[MAXTITL];$/;"	m	struct:book	file:
+to_upper	.\str\mod_str.c	/^void to_upper(char *str){$/;"	f
+value	.\struct\book.c	/^  float value;$/;"	m	struct:book	file:
+value	.\struct\manybook.c	/^  float value;$/;"	m	struct:book	file:
+weapon	.\imooc\struct\list.c	/^struct weapon {$/;"	s	file:
+weapon	.\imooc\struct\struct.c	/^struct weapon{$/;"	s	file:

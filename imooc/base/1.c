@@ -2,7 +2,8 @@
 
 int main()
 {
-	char *ip = NULL;
-	
-	return 0;
+  char buf[512];
+  sscanf("123456", "%4s", buf);
+  printf("%s\n", buf);
+  return 0;
 }
